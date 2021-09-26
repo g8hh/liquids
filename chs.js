@@ -111,7 +111,7 @@ var cnItems = {
     "Every time spending coal increases energy": "每次消耗煤炭都会增加能源",
     "Enable\n\t\t\t": "启用\n\t\t\t",
     "Draining water is decreased by 25": "排水量减少25",
-    "Coal, Copper & Iron capacities are increased based on water (": "煤、铜和铁的产能基于水增加（",
+    "Coal, Copper & Iron capacities are increased based on water (": "煤、铜和铁的容量基于水增加（",
     "Coal, Copper & Iron boosts themselves from Auto-Gather I (": "煤、铜和铁从自动收集 I (",
     "Coal fills 50% faster": "煤炭填充速度提高 50%",
     "Automatically fills water based on your filling water ": "根据您的加水量自动加水",
